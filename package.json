@@ -1,0 +1,22 @@
+{
+  "name": "coyo",
+  "version": "1.0.0",
+  "description": "Hanya untuk bersenang-senang",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Ahok",
+  "license": "MIT",
+  "dependencies": {
+    "@adiwajshing/baileys": "^4.3.0",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "awesome-phonenumber": "^2.64.0",
+    "fs": "^0.0.1-security",
+    "node-telegram-bot-api": "^0.61.0",
+    "pino": "^7.0.5",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
